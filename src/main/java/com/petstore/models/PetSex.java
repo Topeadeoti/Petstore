@@ -1,4 +1,6 @@
 package com.petstore.models;
 
-public enum petSex {
+public enum PetSex {
+        MALE, FEMALE;
+
 }

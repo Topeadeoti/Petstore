@@ -1,4 +1,4 @@
-package com.petstore.models.repository;
+package com.petstore.repository;
 
 import com.petstore.models.Pet;
 import org.springframework.data.jpa.repository.JpaRepository;
